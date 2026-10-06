@@ -6,9 +6,7 @@ Author: Om Kadam Program: Data Analytics with Tableau (Skill Wallet capstone, in
 
 Live Links
 Item	Link
-Tableau Public dashboard and story	[ADD TABLEAU PUBLIC LINK]
-Live web page (GitHub Pages)	[ADD GITHUB PAGES LINK]
-Demo video	[ADD VIDEO LINK]
+Tableau Public dashboard and story	[https://public.tableau.com/views/GlobalAIAdoptioninEducationAComprehensiveGlobalPerformanceIntelligenceReport/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 Problem Statement
 
 AI use in education is growing quickly across students, teachers and institutions, but it is not growing evenly. Adoption differs between countries and regions, between urban and rural areas, and between places with and without government AI policies. Without a clear picture of this, it is hard to decide where to invest, which tools to build for, or which policies work.
